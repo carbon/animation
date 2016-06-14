@@ -1,11 +1,5 @@
 {
   "name": "animation",
-  "version": "1.0.1",
-  "main": "lib/animation.js",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/carbon/animation.git"
-  },
-  "homepage": "https://github.com/carbon/animation"
-}
+  "version": "1.0.2",
+  "main": "lib/animation.js"
+ }
